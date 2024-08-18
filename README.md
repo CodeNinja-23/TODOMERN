@@ -8,7 +8,7 @@ add .env file MONGO_URI = your_connection_string
 
 place Todo.js in models folder.
 
-plcae todoroutes.js in routes folder.
+place todoroutes.js in routes folder.
 
 run the server (check the dependencies)
 
