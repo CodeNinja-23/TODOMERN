@@ -1,5 +1,7 @@
 create a folder TODO
+
 install dependencies express mongoose cors dotenv
+
 create backend foler, place the server.js file. and create models -> routes folder.
 add .env file MONGO_URI = your_connection_string
 place Todo.js in models folder.
